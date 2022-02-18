@@ -1,0 +1,2 @@
+﻿  Source.cpp
+V:\BPC-SCP\Ukol2_rovnice\Ukol2_rovnice\Source.cpp(11,23): error C3078: Ve výrazech new bez inicializátoru musí být definovaná velikost pole.
