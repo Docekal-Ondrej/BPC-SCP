@@ -1,0 +1,2 @@
+V:\BPC-SCP\CV3\Debug\CV3.exe
+V:\BPC-SCP\CV3\Debug\CV3.pdb
