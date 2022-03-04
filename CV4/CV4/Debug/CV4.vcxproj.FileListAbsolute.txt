@@ -1,0 +1,2 @@
+V:\BPC-SCP\CV4\CV4\Debug\CV4.exe
+V:\BPC-SCP\CV4\CV4\Debug\CV4.pdb
