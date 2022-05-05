@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\docek\Desktop\Backwoods\Kaštan\SCP\SCP_projekt\main.cpp(428,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\docek\Desktop\Backwoods\Kaštan\SCP\SCP_projekt\main.cpp(428,45): warning C4018: '>': signed/unsigned mismatch
+C:\Users\docek\Desktop\Backwoods\Kaštan\SCP\SCP_projekt\main.cpp(504): warning C4715: 'Obvod::find': not all control paths return a value
+  SCP_projekt.vcxproj -> C:\Users\docek\Desktop\Backwoods\Kaštan\SCP\SCP_projekt\Debug\SCP_projekt.exe
